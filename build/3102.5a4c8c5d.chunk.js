@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_67_strapi_cybersec=self.webpackChunk_67_strapi_cybersec||[]).push([[3102],{63102:(a,e,s)=>{s.r(e),s.d(e,{REVIEW_WORKFLOW_STAGE_SORT_OPTION_NAME:()=>_});const _={value:"strapi_stage[name]",label:{id:"settings.defaultSortOrder.reviewWorkflows.label",defaultMessage:"Review Stage"}}}}]);
