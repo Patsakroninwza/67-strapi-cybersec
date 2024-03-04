@@ -1,0 +1,28 @@
+{
+  "kind": "singleType",
+  "collectionName": "class_rooms",
+  "info": {
+    "singularName": "class-room",
+    "pluralName": "class-rooms",
+    "displayName": "Class Room"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "RoomNumber": {
+      "type": "string"
+    },
+    "RoomID": {
+      "type": "string"
+    },
+    "RoomStatus": {
+      "type": "enumeration",
+      "enum": [
+        "Ready",
+        "In Used"
+      ]
+    }
+  }
+}

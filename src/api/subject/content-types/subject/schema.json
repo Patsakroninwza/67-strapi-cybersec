@@ -1,0 +1,33 @@
+{
+  "kind": "singleType",
+  "collectionName": "subjects",
+  "info": {
+    "singularName": "subject",
+    "pluralName": "subjects",
+    "displayName": "Subject"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "SubjectID": {
+      "type": "string"
+    },
+    "Descriptions": {
+      "type": "text"
+    },
+    "TeacherID": {
+      "type": "string"
+    },
+    "StudentID": {
+      "type": "string"
+    },
+    "RoomID": {
+      "type": "string"
+    }
+  }
+}
